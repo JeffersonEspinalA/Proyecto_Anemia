@@ -1,2 +1,2 @@
-# Proyecto_Anemia
-Este proyecto utiliza datos relacionados con especificaciones de laptops para predecir su precio utilizando diferentes modelos de regresión. Se evalúan y comparan modelos como XGBoost, Gradient Boosting, Random Forest y otros para determinar el mejor desempeño.
+# Diagnóstico de Anemia
+Este proyecto es una herramienta desarrollada en Python para el diagnóstico de diferentes tipos de anemia a partir de parámetros hematológicos. Utiliza un modelo de árbol de decisión para predecir enfermedades relacionadas con la sangre.
